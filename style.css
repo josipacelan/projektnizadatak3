@@ -305,8 +305,7 @@ nav ul li:hover{
     font-family: 'Nunito Sans', sans-serif;
     
 }
-video{
+.video video{
     width: 60%;
     margin: 2% 0%;
-    
 }
